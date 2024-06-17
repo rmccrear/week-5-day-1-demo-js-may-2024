@@ -4,7 +4,7 @@ DO NOT FORK THIS REPOSITORY for the assignment.
 
 ### Setup
 
-First, examine the example of a text swapping button at ____.
+First, examine the example of a text swapping button [here](https://rmccrear.github.io/week-5-day-1-demo-js-may-2024/).
 
 Create a new repository on GitHub for today's project. Create a file called index.html. Create three more HTML files for your swaps and three JS files for your javascript.
 
